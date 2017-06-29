@@ -3,7 +3,7 @@
 #define PLUGIN_NAME "[TF2] Zombie Land"
 #define PLUGIN_AUTHOR "[W]atch[D]ogs , The Team Ghost"
 #define PLUGIN_DESC "Dedicated zombie mod for zombie land"
-#define PLUGIN_VERSION "0.0.8.8"
+#define PLUGIN_VERSION "0.0.8.6"
 #define PLUGIN_URL "http://theteamghost.clanservers.com/"
 
 
@@ -90,6 +90,8 @@ public void OnPluginStart()
 	hConVarLimit = FindConVar("mp_teams_unbalance_limit");
 	
 	AutoExecConfig(true, "ZombieLand");
+	
+	LoadTranslations("translation_zombieland");
 }
 
 
