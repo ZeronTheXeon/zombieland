@@ -1,0 +1,38 @@
+﻿"Phrases"
+{
+ 	"Spawn_Red_Block"
+ 	{
+ 		"en"		"You can't spawn on Red. Switching to Blu."
+ 		"nl"		"Je kunt niet spawnen in Red. Wisselen naar Blu."
+ 		"fr"		"Tu ne peux pas frayer en Red. Changeant à Blu."
+ 		"es"		"Tu no puedes reaparecer en Red. Cambiando a Blu."
+ 	}
+ 	"Spawn_Blu_Block"
+ 	{
+ 		"en"		"You can't spawn on Blu. Switching to Red."
+ 		"nl"		"Je kunt niet spawnen in Blu. Wisselen naar Red."
+ 		"fr"		"Tu ne peux pas frayer en Blu. Changeant à Red."
+ 		"es"		"Tu no puedes reaparecer en Blu. Cambiando a Red."
+ 	}
+ 	"Zomb_HintRelease_Msg"
+ 	{
+ 		"en"		"Zombies have been released!"
+ 		"nl"		"De zombies zijn vrijgelaten!"
+ 		"fr"		"Les zombies sont libérés!"
+ 		"es"		"¡Los zombies han sido liberados!"
+ 	}
+ 	"Zomb_Release_Msg"
+ 	{
+ 		"en"		"Game has started. Hide or they will get you!"
+ 		"nl"		"Het spel is gestart. Verstop je of ze zullen je te pakken krijgen!"
+ 		"fr"		"Le jeux a commencé. Cache-toi ou ils vont te mordre!"
+ 		"es"		"El juego a empezado. Escondete o te cogerán."
+ 	}
+ 	"ZLstart_Hint_Msg"
+ 	{
+ 		"en"		"Zombie Land starts in: %d Seconds."
+ 		"nl"		"Zombie Land start in: %d Seconden."
+ 		"fr"		"Zombie Land commence dans: %d Secondes."
+ 		"es"		"Zombie Land comienza en: %d Segundos."
+ 	}
+}
