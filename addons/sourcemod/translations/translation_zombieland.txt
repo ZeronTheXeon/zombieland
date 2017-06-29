@@ -6,6 +6,7 @@
  		"nl"		"Je kunt niet spawnen in Red. Wisselen naar Blu."
  		"fr"		"Tu ne peux pas frayer en Red. Changeant à Blu."
  		"es"		"Tu no puedes reaparecer en Red. Cambiando a Blu."
+		"de"		"Du kannst nicht in Team Red spawnen. Wechseln zu Team Blu."
  	}
  	"Spawn_Blu_Block"
  	{
@@ -13,6 +14,7 @@
  		"nl"		"Je kunt niet spawnen in Blu. Wisselen naar Red."
  		"fr"		"Tu ne peux pas frayer en Blu. Changeant à Red."
  		"es"		"Tu no puedes reaparecer en Blu. Cambiando a Red."
+		"de"		"Du kannst nicht in Team Blu spawnen. Wechseln zu Team Red."
  	}
  	"Zomb_HintRelease_Msg"
  	{
@@ -20,6 +22,7 @@
  		"nl"		"De zombies zijn vrijgelaten!"
  		"fr"		"Les zombies sont libérés!"
  		"es"		"¡Los zombies han sido liberados!"
+		"de"		"Die Zombies kommen!"
  	}
  	"Zomb_Release_Msg"
  	{
@@ -27,6 +30,7 @@
  		"nl"		"Het spel is gestart. Verstop je of ze zullen je te pakken krijgen!"
  		"fr"		"Le jeux a commencé. Cache-toi ou ils vont te mordre!"
  		"es"		"El juego a empezado. Escondete o te cogerán."
+		"de"		"Das Spiel hat begonnen. Versteck dich oder sie werden dich kriegen!"
  	}
  	"ZLstart_Hint_Msg"
  	{
@@ -34,5 +38,6 @@
  		"nl"		"Zombie Land start in: %d Seconden."
  		"fr"		"Zombie Land commence dans: %d Secondes."
  		"es"		"Zombie Land comienza en: %d Segundos."
+		"de"		"Zombie Land startet in: %d Sekunden"
  	}
 }
