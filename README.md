@@ -1,5 +1,7 @@
 Welcome to the Zombie Land github page!
 -----------------------------------------------------------------
+We tried recreating Muselk's Zombie Survival mode in TF2 since he never released a public version and no other communities are willing to give their version of the plugins. We came up with the idea to make this plugin and release it for free.
+
 Download the latest version of zombie_land from [here](https://github.com/TheTeamGhost/zombieland/archive/master.zip)
 
 Installation
