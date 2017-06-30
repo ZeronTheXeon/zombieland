@@ -11,3 +11,7 @@ Installation
  - zombie_land.sp -> <*gamefolder*>\tf\addons\sourcemod\scripting\
  - zombieland_translation.txt -> <*gamefolder*>\tf\addons\sourcemod\translations\
  - all files inside materials -> <*gamefolder*>\tf\materials\
+
+Translations
+-------------------
+Currently Zombie Land supports up to 5 languages and we're always looking for people who want to translate it into their own language. Keep in mind that your language needs to also be supported by TF2/Valve to make it work in-game.
