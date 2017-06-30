@@ -1,0 +1,37 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Version 0.0.1.x -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+- Initial idea came up
+- Plugin with ideas were made in short and tested
+- Rewrite and fixes of small test plugins
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Version 0.0.2.x -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
++++++++++++++++++ # +++++++++++++++ # +++++++++++++++++
++++++++++++++++++ | +++The++Rift++++ | +++++++++++++++++
++++++++++++++++++ | ++++of+++lost++++| +++++++++++++++++
++++++++++++++++++ | ++++versions++++ | +++++++++++++++++
++++++++++++++++++ # +++++++++++++++ # +++++++++++++++++
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Version 0.0.5.x -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Version 0.0.6.x -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+- Full rewrite of the plugin
+- Looking for ways to change the game description correctly
+- Working on automatic activation on certain maps, these are specified with cvar
+- Added the ability for DEBUG info
+- Lots of fixes
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Version 0.0.7.x -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+- Rewrite of certain parts that weren't working correctly
+- Getting to show melee weapon on zombies correctly
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Version 0.0.8.x -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+- Rewrite of melee forcing to make sure weapons are showing correctly
+- Added overlays which can be disabled inside if the cvar
+0.0.8.7 -- Added translation files
+0.0.8.8 -- Fixes to translation script
+0.0.8.8 -- Changelog added
+
+
+!!! This took time to creat please consider helping us in any way possible !!!
