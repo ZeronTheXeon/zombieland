@@ -17,3 +17,9 @@ Installation
 Translations
 -------------------
 Currently Zombie Land supports up to 5 languages and we're always looking for people who want to translate it into their own language. Keep in mind that your language needs to also be supported by TF2/Valve to make it work in-game.
+
+! ! ! DISCLAIMER ! ! !
+--------------------------------
+```
+This plugin is still in its alpha stage and is not recommended yet to run it on your server. Some versions are good and some of them tend to crash your server instantly when joining.
+```
